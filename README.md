@@ -1,0 +1,3 @@
+# TradingAlog
+
+some trading algorithems
